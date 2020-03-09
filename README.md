@@ -4,8 +4,12 @@ Login com requisição via ajax, sem ficar atualizando a página para fazer as v
 
 Login utilizando a versão 6 do Laravel, onde, nessa versão, caso queira utilizar os recursos do Authentication, tem que fazer a instalação desse pacote:
 
-- composer require laravel/ui "^1.0"  
-- php artisan ui bootstrap --auth  
+```php
+composer require laravel/ui "^1.0"  
+php artisan ui bootstrap --auth  
+npm install  
+npm run dev
+``` 
 
 
 
