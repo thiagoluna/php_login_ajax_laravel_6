@@ -1,4 +1,4 @@
-## Login com Ajax no Laraavel 6
+## Login com Ajax no Laravel 6
 
 Login com requisição via ajax, sem ficar atualizando a página para fazer as validações e exibição de mensagens.
 
